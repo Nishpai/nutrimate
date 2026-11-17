@@ -1,0 +1,14 @@
+{
+  "split_sizes": {
+    "train": 161009,
+    "test": 43766,
+    "val": 21067
+  },
+  "test_users_evaluated": 3665,
+  "random_expected_precision@10": 0.00147,
+  "chosen_svd_factors": 16,
+  "chosen_w_cf_on_validation": 0.75,
+  "k": 10,
+  "relevant_rating_threshold": 4,
+  "seconds": 100.2
+}

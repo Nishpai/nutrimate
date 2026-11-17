@@ -1,0 +1,6 @@
+constraint_profile,catalogue_share_allowed,violation_rate_without_filter,violation_rate_with_filter,items_checked
+"vegetarian, no peanut",0.3694799443249399,0.8883333333333333,0.0,3000
+vegan,0.15272681260280907,0.9576666666666667,0.0,3000
+"gluten-free, <=600 kcal",0.4481842338352524,0.7406666666666667,0.0,3000
+"dairy-free, >=20 g protein",0.11590535239782361,0.815,0.0,3000
+"no egg, no mushroom, <=45 min",0.4230039225610528,0.7003333333333334,0.0,3000

@@ -1,0 +1,8 @@
+{
+  "recipes": 7903,
+  "tfidf_vocabulary": 11174,
+  "item_vector_dims": 11181,
+  "cf_factors": 16,
+  "cf_items_with_ratings": 6721,
+  "seconds": 1.1
+}

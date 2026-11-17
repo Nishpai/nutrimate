@@ -1,0 +1,51 @@
+{
+  "recipes_in_catalogue": 7903,
+  "recipes_with_ratings_in_cf_data": 6721,
+  "extra_indian_cold_start_recipes": 1182,
+  "interactions": 225842,
+  "users": 3666,
+  "density": 0.00917,
+  "rating_share": {
+    "1": 0.003,
+    "2": 0.008,
+    "3": 0.033,
+    "4": 0.154,
+    "5": 0.801
+  },
+  "nutrition_flagged_missing": 176,
+  "eggetarian_recipes": 4510,
+  "vegetarian_recipes": 3068,
+  "vegan_recipes": 1221,
+  "foods_indb": 1014,
+  "foods_usda": 7793,
+  "cuisine_counts": {
+    "Unspecified": 4968,
+    "Indian": 1232,
+    "European": 628,
+    "Mexican": 299,
+    "American": 244,
+    "Asian": 113,
+    "Greek": 92,
+    "Chinese": 82,
+    "Middle Eastern": 59,
+    "Caribbean": 54,
+    "Cajun/Creole": 37,
+    "African": 36,
+    "Thai": 23,
+    "Japanese": 19,
+    "South American": 8,
+    "Korean": 6,
+    "Vietnamese": 3
+  },
+  "meal_type_counts": {
+    "main": 2518,
+    "side": 1312,
+    "dessert": 1033,
+    "snack": 768,
+    "other": 713,
+    "baking": 609,
+    "breakfast": 415,
+    "drink": 281,
+    "sauce": 254
+  }
+}
